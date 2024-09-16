@@ -1,0 +1,11 @@
+order_id,customer_name,product,quantity,price,order_date
+1001,John Doe,Laptop,1,1200.00,2024-09-01
+1002,Jane Smith,Smartphone,2,699.99,2024-09-02
+1003,Mike Johnson,Headphones,3,89.99,2024-09-03
+1004,Emily Davis,Tablet,1,450.50,2024-09-04
+1005,Liam Brown,Smartwatch,2,199.95,2024-09-05
+1006,Emma Wilson,Camera,1,850.00,2024-09-06
+1007,Noah Moore,Monitor,2,299.99,2024-09-07
+1008,Ava Taylor,Keyboard,4,49.99,2024-09-08
+1009,Olivia Anderson,Mouse,5,25.99,2024-09-09
+1010,Ethan Lee,External Hard Drive,1,130.00,2024-09-10
